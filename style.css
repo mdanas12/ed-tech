@@ -1,0 +1,26 @@
+ /* header items --------
+ ------- */
+ .h-text-primary {
+     color: rgb(26, 21, 26);
+ }
+
+ .p-text-light {
+     color: rgb(32, 32, 29);
+ }
+
+ .f-bg-primary {
+     background-color: rgb(34, 33, 33);
+ }
+
+ .f-text-light {
+     color: rgb(216, 238, 238);
+ }
+
+ /* footer items --------- */
+ .i-bg-light {
+     background-color: rgb(59, 55, 55);
+ }
+
+ .icon-item {
+     color: rgb(248, 242, 242);
+ }
